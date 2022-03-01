@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of John Vanden Bemde, Esq., and Sir John Rotheram, Kt.</title>
+            <author>Vanden Bemde, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02588</idno>
+            <idno type="STC">Wing C935B</idno>
+            <idno type="STC">ESTC R173531</idno>
+            <idno type="EEBO-CITATION">51784428</idno>
+            <idno type="OCLC">ocm 51784428</idno>
+            <idno type="VID">174848</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02588)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174848)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2703:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of John Vanden Bemde, Esq., and Sir John Rotheram, Kt.</title>
+                  <author>Vanden Bemde, John.</author>
+                  <author>Rotheram, John, Sir, 1630-1696?</author>
+                  <author>Radnor, Sarah Robartes, Countess of, d. 1720.</author>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"The Countess of Radnor, appellant.  John Vanden Bemde, Esq., and Sir John Rotheram, Kt., respondents."</note>
+                  <note>Place and date of publication taken from Wing (2nd ed.)</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Radnor, Sarah Robartes, --  Countess of, d. 1720 --  Trials, litigation, etc.</term>
+               <term>Vanden Bemde, John --  Trials, litigation, etc.</term>
+               <term>Rotheram, John, --  Sir, 1630-1696? --  Trials, litigation, etc.</term>
+               <term>Warwick, Charles Rich, --  Earl of, 1616-1673 --  Estate.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:174848:1" rendition="simple:additions"/>
+            <head>The <hi>CASE</hi> of <hi>John Vanden Bemde,</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>AND</hi> Sir <hi>John Rotheram,</hi> Kt.</head>
+            <head type="sub">
+               <list>
+                  <item>The Counteſs of <hi>Radnor,</hi> Appellant.</item>
+                  <item>
+                     <hi>John Vanden Bemde,</hi> 
+                     <abbr>Eſq</abbr> AND Sir <hi>John Rotheram,</hi> Kt. Reſpondents.</item>
+               </list>
+            </head>
+            <p>
+               <label>26 Auguſt, 14. Car. 2. 1662</label> BY Indenture of Leaſe and Releaſe, <hi>Charles</hi> late Earl of <hi>Warwick,</hi> upon the Marriage of his Son <hi>Charles</hi> Lord <hi>Rich</hi> with the Lady <hi>Anne Cavendiſh,</hi> now Counteſs of <hi>Exon,</hi> ſettled part of his Eſtate upon the ſaid Lady <hi>Anne</hi> for Joynture; and after Failure of Iſſue Male of the Body of the ſaid Lord <hi>Rich,</hi> as alſo of the Earl, limits a Term for 99 Years to Truſtees, to be diſpoſed of by the Earl by his Deed or Will: And for want of ſuch Appointment, then in Truſt for the next in Remainder, and then limitted the whole Eſtate in ſuch manner, as that a Third part of the Moiety thereof came to the Lord <hi>Bodmyn</hi> (the Appellant's Husband) in Tail General, with the Reverſion, in Fee to the Earl and his Heirs.</p>
+            <p>
+               <label>In 1673</label> The Lord <hi>Rich</hi> died without Iſſue, and the Earl of <hi>Warwick,</hi> by his Will, appointed all the Mannors and Lands to the Coun<g ref="char:EOLhyphen"/>teſs his Wife for ſo many Years, of the Term of 99 Years, as ſhe ſhould live, and to her Executors for One Year after her Death; and charged the ſame, from and after the Counteſs's Death, with ſeveral Annuities for Life, many whereof were in being at the time of Mr. <hi>Vanden Bemde</hi>'s Purchaſe herein after mentioned, and Two of which are ſtill in being, one for 100 <hi>l.</hi> and the other for 10 <hi>l. per Annum;</hi> And the Earl ſhortly after, died without Iſſue Male.</p>
+            <p>
+               <label>14 &amp; 15 Jan. 1676</label> Mr. <hi>Abraham Vanden Bemde,</hi> the Reſpondent <hi>Vanden Bemde</hi>'s Fa<g ref="char:EOLhyphen"/>ther, purchaſed of the Lord <hi>Bodmyn</hi> for 5000 <hi>l.</hi> his Third part of a Moiety, and had it conveyed by Deed and Fine. The Coun<g ref="char:EOLhyphen"/>teſs of <hi>Warwick</hi> then living, a healthy Lady, and likely to live many Years, being but about 46 Years old; there being the ſaid Two Ladies Eſtates for Life in being, and the ſaid Annuities.</p>
+            <p>
+               <label>In 1678</label> The Counteſs of <hi>Warwick</hi> died, and after the Counteſs's Death, the Reſpondent <hi>Vanden Bemde</hi>'s Father, for 4000 <hi>l.</hi> conveyed a Moiety to the Truſtees of the Reſpondent, Sir <hi>John Rotheram.</hi>
+            </p>
+            <p>
+               <hi>Note,</hi> That <hi>Robert</hi> Earl of <hi>Warwick</hi> (Father of Earl <hi>Charles</hi>) being ſeiz'd 16. <hi>Jac.</hi> I. acknowledged a Statute for 1000 <hi>l.</hi> to <hi>Thomas Bootteler,</hi> which Statute is extended upon the Lands in Queſtion; and that Statute and Extent was preſently (upon their Purchaſe of the Eſtate) purchaſed by the Reſpondent <hi>Vanden Bemde</hi>'s Father, and Sir <hi>John Rotheram,</hi> and the ſame was aſſigned in Truſt for them: As alſo, the Reſpondents have the Term for 99 Years, aſſigned in Truſt for them to protect their purchaſed Eſtate.</p>
+            <p>The Appellant brought her Writ of Dower in the Court of <hi>Common-Pleas</hi> againſt <hi>Abraham Vanden Bemde;</hi> and although the Statute and Extent was a good Barr againſt her, from having actual Seiſin of Dower, as well as the Term for 99 Years, yet in a Court
+<pb n="2" facs="tcp:174848:2"/>of Law, the Party pleading, can only inſiſt upon one ſingle Mat<g ref="char:EOLhyphen"/>ter for his Defence: And therefore Mr. <hi>Abraham Vanden Bemde</hi> pleaded only the Term for 99 Years; and ſhe had Judgment, but to ſtay Execution till after the Determination of the Term for 99 Years.</p>
+            <p>
+               <label>20 May, 1686</label> The Appellant exhibited her Bill in <hi>Chancery</hi> againſt Mr. <hi>Abra<g ref="char:EOLhyphen"/>ham Vanden Bemde</hi> alone, to ſet aſide the ſaid Term and Extent. Whereupon the Lord Chancellour <hi>Jeffreys</hi> ordered that neither the Term or Statute ſhould be given in Evidence, or ſet up at Law to barr the Appellants Recovery of her Dower; for which purpoſe, upon her withdrawing her Judgment, Mr. <hi>Abraham Vanden Bemde</hi> was to withdraw his Plea to the Term for Years, and plead <hi>de novo.</hi>
+            </p>
+            <p>But the Appellant never ſigned and inrolled that Decree, nor proſecuted the ſame, but reſted ſeveral Years without further Proceeding.</p>
+            <p>
+               <label>In 1692</label> She exhibited a Bill of Revivor againſt the now Reſpondent <hi>Vanden Bemde,</hi> as Heir and Executor of his Father, to which he anſwered; and thereby ſetting forth another Title as Purchaſer from his Father, by Virtue of the Agreement on his Mother's Marriage, ſhe diſmiſs'd that Bill; and in 1693. exhibited her Ori<g ref="char:EOLhyphen"/>ginal Bill againſt both the Reſpondents, to which they pleaded their Titles: And upon hearing the Cauſe, the now Lord <hi>Keeper</hi> directed a Maſter in <hi>Chancery</hi> to look into the Matter of the ſaid <hi>Abraham Vanden Bemde</hi>'s Purchace, and the Value of the Land, and ſtate a Caſe on the whole Matter. And upon the Maſter's Re<g ref="char:EOLhyphen"/>port accordingly made, my Lord <hi>Keeper,</hi> after long Conſideration had of the Caſe, and View of Precedents produced on both ſides, the 13. <hi>March</hi> laſt Declared, he ſaw no Cauſe to give the Appel<g ref="char:EOLhyphen"/>lant any Relief, but diſmiſs'd her Bill.</p>
+            <p>Upon which the Appellant hath brought her Appeal.</p>
+            <p>It is by the Common Law, that the Wife is Dowable where her Husband is ſeized in Law, in Fee Simple, or Fee Taile. But if the Heir at Law, or a Purchaſer, had any Matter that was a Barr to her at Law, ſhe never had any relief in Chancery againſt ſuch Barr: For as ſhe Claimed by Act in Law, where that failed, ſhe never could help her ſelf elſewhere.</p>
+            <p>It is a common Caſe for a man to make a Leaſe for Years of his Lands, before his Marriage in Truſt to attend the Inheritance, to avoid the Dower of his Wife, and alſo for a Purchaſer to have the Eſtate conveyed to himſelf, and a Friend in truſt for him, to pre<g ref="char:EOLhyphen"/>vent Dower: Which have always prevailed to barr the Wife of Dower, and never any relief ſought or given againſt ſuch Leaſes or Truſts. And if a <hi>Court of Equity</hi> ſhould take upon it to ſet theſe aſide, to entitle the Wife to Dower, many Eſtates would be ſhaken, and the Conſequence would be the cauſe of Suits and Controver<g ref="char:EOLhyphen"/>ſies in many Families, and prove very miſchievous to them.</p>
+            <p>
+               <hi>Note,</hi> This Leaſe was made by <hi>Warwick,</hi> be<g ref="char:EOLhyphen"/>fore the Appellant's Husband had any Title to the Eſtate; ſo it is ſtronger than if it were the Husband's own Act.</p>
+            <p>The Statute and Extent was purchaſed by the Reſpondents, and coſt 600 Pound, and is a good Barr of her Dower as Law.</p>
+            <pb n="3" facs="tcp:174848:2"/>
+            <p>Whereas it is ſaid, the Appellant brought a great Fortune, and ſo ought to have ſomething out of her Husband's Eſtate; it was her's and her Friends fault not to provide a Jointure and Settle<g ref="char:EOLhyphen"/>ment; and ſhe marrying without, muſt truſt to the Conſequence of Law concerning what ſhe ought to have.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> 
+               <hi>That the Eſtate was much more worth, than was paid by</hi> Abraham Vanden Bemde; <hi>and therefore it ſhall be preſumed, That in his Pur<g ref="char:EOLhyphen"/>chaſe there was Conſideration had, and Allowance made to him for the Appellant's Dower.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> There is no Proof made of any ſuch thing in the Cauſe. The Rents of the Lands are but 840 Pound <hi>per Annum:</hi> And when Mr. <hi>Vandenbemde</hi> purchaſed, the Counteſs of <hi>Exon</hi> (who is ſtill alive) had a Jointure upon the whole Eſtate, which is ſince made an Annuity of 1200 Pound <hi>per Annum,</hi> 200 Pound whereof is charged upon the Eſtate in queſtion; And the Counteſs of <hi>Warwick</hi> the reſt for her Life, and a Year after: And after that, charged with ſeveral other Annuities for Life: And had the Counteſs of <hi>Warwick</hi> lived till now, (as ſhe might have done, the Earl of <hi>Bur<g ref="char:EOLhyphen"/>lington,</hi> her Elder Brother, being ſtill alive) as the Counteſs of <hi>Exon</hi> has done, it would have proved a very dear Bargain.</p>
+            <p>Nor is there any manner of Proof of any Treaty or Conſide<g ref="char:EOLhyphen"/>ration had for any Abatement in reſpect of the Appellant's Dower.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> 
+               <hi>But it appears by the Report taken by the Maſter in</hi> Chancery, <hi>as alſo by a Report taken in the time of the Lord</hi> Jeffreys, <hi>that the Eſtate was of much greater Value than what Mr.</hi> Abraham Van<g ref="char:EOLhyphen"/>denbemde <hi>gave for it, and for that reaſon the Lord</hi> Jeffreys <hi>made his Decree.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> The Maſters took a wrong Eſtimate of the Value of the Eſtate, and alſo Under-Valuing the Lives, to wit, the Counteſs of <hi>War<g ref="char:EOLhyphen"/>wick</hi>'s Life at Seven Years Purchaſe, whoſe Life was then lookt upon as a good Life, ſhe being of a middle Age; and the Coun<g ref="char:EOLhyphen"/>teſs of <hi>Exon</hi>'s Life at Nine Years Purchaſe, who has lived 20 Years and may ſtill as many. And ſmall Rates for the Annuities. So that theſe were imaginary Valuations of an Eſtate Taile in Re<g ref="char:EOLhyphen"/>mainder, ſubject to many Contingencies, which might have made that Purchaſe no great Bargain.</p>
+            <p>And there were Exceptions taken to thoſe Reports; ſo they were not Concluſive: Beſides, the Appellant's Council, before the <hi>Lord-Keeper,</hi> waved laying any ſtreſs upon the Report for that Imaginary Computation.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Note, </seg>
+               </label> That the Creditors of the Lord <hi>Bodmyn,</hi> by Judgments, exhibi<g ref="char:EOLhyphen"/>ted their Bill to ſet aſide this term of 99 Years, and the ſaid Statute; which Cauſe came to Hearing before the late <hi>Lords Commiſſioners,</hi> who allowed Mr. <hi>Vanden Bemde</hi> to be a good Purchaſer, and diſmiſs'd their Bill. And if a Creditor could not be relieved in Equity, much leſs ſhall a Dowreſs, who Claims only by Conſtruction of Law, and under ſuch Qualifications as the Law allows, and no other.</p>
+            <p>Wherefore the <hi>Reſpondents</hi> humbly pray that the Appeal may be diſmiſs'd.</p>
+         </div>
+         <div type="summary">
+            <pb facs="tcp:174848:3"/>
+            <pb facs="tcp:174848:3"/>
+            <head>Sir <hi>John Rotheram,</hi> AND <hi>John Vanden Bemde,</hi> RESPONDENTS To the Appeal OF The Lady <hi>Radnor,</hi> APPELLANT.</head>
+            <head type="sub">The Facts within mentioned, are reduced to this Point:</head>
+            <p>WHether a Term of 99 Years, raiſed by <hi>Charles</hi> Earl of <hi>Warwick,</hi> (before the Appellant's Husband had any Title to the Eſtate, and by whoſe Settlement he was made Tenent in Tail, in Remainder after ſeveral Eſtates,) for Paying Annuities, and other Purpoſes declared by the ſaid Earl's Laſt Will and Teſtament, and alſo a Statute acknow<g ref="char:EOLhyphen"/>ledged by his Father, ſhall be ſet aſide, by a Court of <hi>Equity,</hi> to let the Appellant into Dower of the Lands in queſtion, of which her Husband had ſuch Eſtate, againſt a Pur<g ref="char:EOLhyphen"/>chaſer, who paid off the Statute, and took an Aſſignment thereof, and alſo of the Term to protect his Purchaſe, being admitted to be good Bars, at Common Law, againſt ſuch Dower.</p>
+            <p>For this there is no Precedent in any Court of <hi>Equity,</hi> (as is admitted by the Ap<g ref="char:EOLhyphen"/>peal it ſelf.)</p>
+            <p>And in Caſe ſuch a Precedent ſhould be made, it will let Titles of Dower into many Eſtates of the Nobility and Gentry, and thereby defeat Heirs and Purchaſers thereof, and the uſual Settlement thereupon, which are generally protected by precedent Terms and Incumbrances; and all Conveyancers will be at a loſs how to adviſe their Clients, for the future, in the Safety of a Purchaſe.</p>
+            <p>Wherefore the <hi>Reſpondents</hi> humbly pray that the Appeal may be diſmiſs'd.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
